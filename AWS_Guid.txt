@@ -1,0 +1,11 @@
+======> DCB
+https://www.youtube.com/watch?v=9kXMLTNaQj8&list=PLhfxuQVMs-nyRj4XEM0xVKSfduJXo1PAQ
+[8-Vidos] 2.20 hours
+
+
+=====> UDEMY
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-step-by-step/learn/lecture/20064564?start=150#overview
+AWS Certified Solutions Architect Associate - SAA C03  29 hours
+
+
+1) SNS : Simple Notification Service
